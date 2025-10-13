@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thaiane/thaiane/master/assets/header.png" alt="Banner"/>
+  <img src="https://i.imgur.com/83QLS3w.gif" alt="Banner Dinâmico de Código" width="800"/>
 </p>
 
 <h1 align="center">Olá, eu sou o Júlio Ribeiro! 👋</h1>
