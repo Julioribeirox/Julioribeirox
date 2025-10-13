@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thaiane/thaiane/master/assets/header.png" alt="Banner Profissional de Tecnologia"/>
+  <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="Banner"/>
 </p>
 
 <h1 align="center">Olá, eu sou o Júlio Ribeiro! 👋</h1>
