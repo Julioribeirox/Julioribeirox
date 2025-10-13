@@ -50,14 +50,15 @@ Tecnologias utilizadas:
 </details>
 
 <details>
-<summary><b>[Nome do seu outro projeto]</b></summary>
+<summary><b>[Site do guapé]</b></summary>
 
 
-[Breve descrição do que o projeto faz e por que você o criou.]
+[Um site academico usado para exibir um local turistico da minha cidade.]
 
 Tecnologias utilizadas:
 
 <p>
+  Html, css e js!
 </p>
 
 🔗 Ver o código no GitHub
