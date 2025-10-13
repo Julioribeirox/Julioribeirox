@@ -50,20 +50,21 @@ Tecnologias utilizadas:
 </details>
 
 <details>
-<summary><b>[Site do guapé]</b></summary>
+<summary><b>🏞️ Site do Parque do Guapé</b></summary>
+<br>
 
+> Um site acadêmico desenvolvido para apresentar o Parque Turístico do Guapé, um dos pontos turísticos da minha cidade, destacando suas atrações e informações para visitantes.
+<br>
 
-[Um site academico usado para exibir um local turistico da minha cidade.]
-
-Tecnologias utilizadas:
-
+**Tecnologias utilizadas:**
 <p>
-  Html, css e js!
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
 </p>
 
-🔗 Ver o código no GitHub
-
-
+[**🔗 Ver o código no GitHub**]([https://github.com/Julioribeirox/Projeto-vercel])
+<br>
 </details>
 
 📊 Minhas Estatísticas no GitHub
@@ -87,6 +88,6 @@ Acredito que o aprendizado nunca para. Atualmente, estou aprofundando meus conhe
 Estou sempre aberto a novas oportunidades e colaborações. Vamos conversar!
 
 <p align="left">
-<a href="[https://www.linkedin.com/in/julio-apolinario-1515b426b/]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="[SEU_NOME]"/></a>
-<a href="mailto:[SEU_EMAIL_AQUI]" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="[SEU_NOME]"/></a>
+<a href="[https://www.linkedin.com/in/julio-apolinario-1515b426b/]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="[Julio_Apolinario]"/></a>
+<a href="mailto:[julioribeiroprog@gmail.com]" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="[Julio_Apolinario]"/></a>
 </p>
