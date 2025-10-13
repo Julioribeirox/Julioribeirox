@@ -44,7 +44,7 @@ Tecnologias utilizadas:
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
 <img src="https://img.shields.io/badge/Hive-FFC107?style=for-the-badge&logo=hive&logoColor=black" alt="Hive DB"> </p>
 
-🔗 Ver o código no GitHub
+[**🔗 Ver o código no GitHub**]([https://github.com/Julioribeirox/gerenciador_viveiros])
 
 
 </details>
