@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/83QLS3w.gif" alt="Banner Dinâmico de Código" width="800"/>
+  <img src="https://raw.githubusercontent.com/matyo91/matyo91/master/hello.gif" alt="Banner Hello World" width="600"/>
 </p>
 
 <h1 align="center">Olá, eu sou o Júlio Ribeiro! 👋</h1>
