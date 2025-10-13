@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Q2eDhpMHBjaG9sdjZ3bnFmMjNlMmxscmtseDF0cGlzd2k0ZTRyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+  <img src="https://raw.githubusercontent.com/Thaiane/thaiane/master/assets/header.png" alt="Banner"/>
 </p>
 
 <h1 align="center">Olá, eu sou o Júlio Ribeiro! 👋</h1>
