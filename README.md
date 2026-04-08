@@ -74,12 +74,9 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ### 📊 Minhas Estatísticas no GitHub
 <p align="center">
-  <a href="https://github.com/Julioribeirox">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Julioribeirox&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julioribeirox&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Julioribeirox&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julioribeirox&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="180" />
 </p>
-
 ---
 
 ### 🎯 Estudando no Momento
