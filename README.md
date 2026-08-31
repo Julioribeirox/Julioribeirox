@@ -106,6 +106,6 @@ Acredito que o aprendizado nunca para. Atualmente, estou aprofundando meus conhe
 Estou sempre aberto a novas oportunidades e colaborações. Vamos conversar!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/julio-apolinario-1515b426b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Julio_Apolinario"/></a>
+  <a href="https://www.linkedin.com/in/julio-ribeiro-1515b426b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Julio_Apolinario"/></a>
   <a href="mailto:julioribeiroprog@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Julio_Apolinario"/></a>
 </p>
