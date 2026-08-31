@@ -74,8 +74,8 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ### 📊 Minhas Estatísticas no GitHub
 <p align="center">
-  <img src="https://stats-iota-two.vercel.app/api?username=Julioribeirox&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" height="180" />
-  <img src="https://stats-iota-two.vercel.app/api/top-langs/?username=Julioribeirox&layout=compact&theme=tokyonight&langs_count=7" alt="Linguagens mais usadas" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Julioribeirox&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Julioribeirox&layout=compact&theme=tokyonight&langs_count=7" alt="Linguagens mais usadas" height="180" />
 </p>
 
 ---
